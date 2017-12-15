@@ -1,0 +1,57 @@
+
+/***** Features *****/
+#ourService {
+    background: #455a64  fixed;
+    padding-bottom: 130px;
+        color: black;
+
+}
+#ourService p {
+    padding-bottom: 30px;
+    text-align: center;
+}
+#ourService .feature-box {
+    transition: all .5s;
+    background: transparent;
+    padding: 40px 0 40px 0;
+    margin-bottom: 0px;
+    margin-top: 0px;
+}
+#ourService .feature-box:hover {
+    padding: 0;
+    color: #fff;
+}
+#ourService .feature-box .feature-box-inner {
+    box-shadow: inset 0px 0px 0 10px #cecece;
+    border-bottom: 10px solid #cecece;
+    border-top: 10px solid #cecece;
+    transition: all .5s;
+    background: #fff;
+    padding: 20px;
+    margin: auto;
+}
+#ourService .feature-box:hover .feature-box-inner {
+    box-shadow: inset 0px 0px 0px 0px #cecece;
+    border-bottom: 10px solid #3d799f;
+    border-top: 10px solid #3d799f;
+    padding: 60px 20px 60px 20px;
+    background: #3399cc;
+        color: white;
+
+
+}
+#ourService .feature-box p {
+    max-width: 250px;
+    min-height: 260px;
+    line-height: 32px;
+    padding-top: 30px;
+    font-size: 18px;
+    margin: auto;
+}
+#ourService .feature-box .feature-box-icon {
+    border-radius: 0px;
+    text-align: center;
+    padding-top: 50px;
+    font-size: 56px;
+    color:#233842;
+}

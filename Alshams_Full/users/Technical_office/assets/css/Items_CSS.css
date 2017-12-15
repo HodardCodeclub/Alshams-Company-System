@@ -1,0 +1,41 @@
+/**
+ * Projet Name : Dynamic Form Processing with PHP
+ * URL: http://techstream.org/Web-Development/PHP/Dynamic-Form-Processing-with-PHP
+ *
+ * Licensed under the MIT license.
+ * http://www.opensource.org/licenses/mit-license.php
+ * 
+ * Copyright 2013, Tech Stream
+ * http://techstream.org
+ */
+*/*Set's border, padding and margin to 0 for all values*/
+{
+    padding: 0;
+    margin: 0;
+    border: 0;
+}
+body, html {
+    color: #00008B;
+    font-family: Verdana,Arial, Helvetica, sans-serif;
+    height: 100%;
+    background-color: #f0f0f0;
+    margin:10px;
+}
+body {
+    font-size: 70%;
+}
+
+.form td{
+	border-right:1px solid #F1F1F1;
+	border-top:1px solid #F1F1F1;
+	border-bottom:1px solid #F1F1F1;
+	border-left:0px solid #F1F1F1;
+	padding:5px;
+	margin:0;
+}
+
+
+
+
+
+
