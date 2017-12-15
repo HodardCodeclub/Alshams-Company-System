@@ -1,19 +1,19 @@
 # Alshams-Company-System
 # short Description
 
-this was a Software Engineering course project. We were a team of 4 software engineers. Our project focuses on managing the constructing Department, Technical Department, Logistic department, financial department and Administration Department.it was developed using php MVC some different design patterns includes (observer,Decorative,singleton and factory ),also the project use AJAX ,mysql workbench for mysql DB. The documentation of SRS & SDD are developed with latex and easy to understand for maintenances and changes. The web application has been developed using agile software development method and also it’s dynamic and reusable for other purposes.
+It was a Software Engineering course project. We were a team of 4 software engineers. Our project focuses on managing the construction department, technical department, logistic department, financial department and administration department. It was developed using object oriented php applying MVC and some different design patterns includes (observer, Decorative, singleton and factory ). We also used AJAX, JQuery, bootstrap and mysql workbench for mysql DB. The documentation of SRS & SDD was developed using latex. The web application was developed using agile software development method, so it’s dynamic and reusable for other purposes.
 
 # Alshams Company
 
-this project stands for Alshams Company for Constructing and Housing.
+The project stands for Alshams Company for Construction and Housing.
 
 # Running the tests
 
-everything is written inside the SSD and SRS documents.
+Everything is written inside the SSD and SRS documents.
 
 # Deployment
 
-still under webhost deployment.
+Still under webhost deployment.
 
 # Built With
 
@@ -24,7 +24,7 @@ mysqli - Database command.
 
 # Contributing
 
-for more details on our code of conduct, and the process for submitting pull requests , please contact us on
+for more details about our code, and the process for submitting pull requests , please contact us on
 
 rowan1405343@miuegypt.edu.eg
 wassemcs@gmail.com (ahmed1412147@miuegypt.edu.eg)
